@@ -8,8 +8,6 @@
 
 **[产品官网](https://cloudquery.club/)**  
 
-**[在线体验](http://122.112.167.91/system_data_operate)**  
-
 **[使用文档](https://bintools.yuque.com/org-wiki-bintools-xniowl/do4ums)**
 
 **[下载地址](https://cloudquery.club/#/download)**
