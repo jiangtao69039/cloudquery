@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2b356296-5725-4c6b-9ff8-d164065595a5)<h1 align="center">CloudQuery</h1>
+<h1 align="center">CloudQuery</h1>
 
 # CloudQuery 数据库安全管控平台
 
@@ -105,13 +105,11 @@
 CloudQuery社区交流     
 WeChat: m_buwangchuxin   
 
-扫描二维码，添加小助手后拉您进群
 
-![wechat](./img/wechat1.png)
 
 
 
 ## 联系我们
-电话：0571-56182295    
-微信： bintoolsassistant
+电话：15281669095  
+微信: 15281669095 
 
